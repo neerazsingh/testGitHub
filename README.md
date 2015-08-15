@@ -1,2 +1,2 @@
 # testGitHub
-GitHub testing file
+GitHub testing file is repository for showing the bare.
